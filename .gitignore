@@ -1,0 +1,12 @@
+vivado_project/
+
+# Ignore log files
+*.log
+*.jou
+*.str
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+*dfx_runtime.txt*
