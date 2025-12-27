@@ -18,7 +18,6 @@ This repository uses Tcl scripts to automate the project recreation and build pr
 **1. Run Vivado Integration**
 This step creates the Vivado project, links the RTL/Netlists, and applies constraints.
 ```bash
-# From the fpga_hls directory
 vivado -mode batch -source scripts/run_vivado.tcl
 ```
 *Output:* A fully configured Vivado project will be created in `vivado_project`.
