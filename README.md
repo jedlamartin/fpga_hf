@@ -10,6 +10,7 @@ The core logic processes video data in the pixel domain, utilizing line buffers 
 * `constr/`: Physical constraints files (pinout and timing definitions) for the target FPGA board.
 * `sim/`: Simulation files and testbenches for verifying the logic before synthesis.
 * `docs/`: Design documentation and diagrams explaining the filter architecture.
+* `scripts/`: Build automation.
 
 ## Building the Project (Scripted Flow)
 
