@@ -2,7 +2,7 @@
 
 # --- Configuration ---
 set project_name "hdmi_fir_proj"
-set device_part "xc7k70tfbg484-1" 
+set device_part "xc7k70tfbg676-1" 
 
 # 1. Create the Project
 puts "Creating Vivado Project..."
