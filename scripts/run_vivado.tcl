@@ -21,6 +21,7 @@ add_files -norecurse {
     ./rtl/dsp16x8.v
     ./rtl/fir2d.v
     ./rtl/sp_bram.v
+	./rtl/mac.v
 }
 
 # 3. Add Constraints
